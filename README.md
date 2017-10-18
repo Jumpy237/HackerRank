@@ -1,2 +1,2 @@
 # HackerRank
-My solutions 
+Easy Problem Solution
